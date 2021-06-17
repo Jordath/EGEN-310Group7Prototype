@@ -19,7 +19,6 @@ public class YesActivityReal extends AppCompatActivity implements View.OnClickLi
 
     @Override
     public void onClick(View v) {
-        //finish();
         Intent i = new Intent(this, MainActivity.class);
         startActivity(i);
     }
