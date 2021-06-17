@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EGEN-310 Group 7 Prototype"
